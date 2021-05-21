@@ -8,7 +8,7 @@ import {
 
 function Header() {
     return (
-      <header>
+      <header className="sticky top-0 left-0">
         {/* Top Nav */}
         <div className="flex items-center bg-amazon_blue p-1 flex-grow py-2">
           {/* Logo */}
